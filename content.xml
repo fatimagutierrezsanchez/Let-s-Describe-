@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260604112531VTTGRG</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260604112531TYQSUR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Let&apos;s Describe!!!!!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fátima Gutiérrez Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este REA parte de la unidad didáctica “Let’s describe” y tiene como objetivo que el alumnado sea capaz de describir personas reales o ficticias utilizando el presente simple, adjetivos de apariencia y personalidad, y estructuras básicas en inglés. Para lograrlo, se propone una dinámica en grupos cooperativos, donde cada grupo debe crear una presentación de un personaje inventado. Esta presentación incluye imágenes, textos descriptivos y una exposición oral breve ante la clase.
+Durante el proceso, el alumnado trabaja con recursos tecnológicos como tablets, ordenadores y la pizarra digital. La tecnología se convierte en una herramienta de apoyo, no solo para buscar o crear contenidos, sino también para motivar al alumnado, fomentar su autonomía y permitirle desarrollar competencias comunicativas en un entorno más dinámico.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>Creative Commons: Reconocimiento - no comercial - compartir igual 4.0 </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780565120382</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpzahzqx-nsowzkp64</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Let&apos;s describe!!!!!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Let&apos;s describe!!!!!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Let&apos;s describe!!!!!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Let&apos;s describe!!!!!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzqx-nsowzkp64</odePageId>
+      <odeBlockId>block-mpxtnlv4-38vlewz04</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzqx-nsowzkp64</odePageId>
+          <odeBlockId>block-mpxtnlv4-38vlewz04</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv5-igc8wr5qh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Lets_describe.jpg" alt="" width="543" height="620" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia. Portada</em> <a href="https://creativecommons.org/licenses/?lang=es">(CC BY-NC-SA)</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpxtnlv5-igc8wr5qh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Lets_describe.jpg\" alt=\"\" width=\"543\" height=\"620\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia. Portada</em> <a href=\"https://creativecommons.org/licenses/?lang=es\">(CC BY-NC-SA)</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzqx-nsowzkp64</odePageId>
+      <odeBlockId>block-1780480120110-mh25ddib9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzqx-nsowzkp64</odePageId>
+          <odeBlockId>block-1780480120110-mh25ddib9</odeBlockId>
+          <odeIdeviceId>idevice-1780480120104-wtu4lf5sb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780480120104-wtu4lf5sb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr0-l7iqzxumt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr0-l7iqzxumt</odePageId>
+      <odeBlockId>block-mpxtnlv5-awr7brh69</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr0-l7iqzxumt</odePageId>
+          <odeBlockId>block-mpxtnlv5-awr7brh69</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv5-xuszk5zr1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Este proyecto parte de la unidad didáctica “Let’s describe” y tiene como objetivo que el alumnado sea capaz de describir personas reales o ficticias utilizando el presente simple, adjetivos de apariencia y personalidad, y estructuras básicas en inglés. Para lograrlo, se proponen varias actividades en grupos cooperativos, parejas o ejercicios individuales. Esta presentación incluye imágenes, textos descriptivos y una exposición oral breve ante la clase.<br />Durante el proceso, el alumnado trabaja con recursos tecnológicos como tablets, ordenadores y la pizarra digital. La tecnología se convierte en una herramienta de apoyo, no solo para buscar o crear contenidos, sino también para motivar al alumnado, fomentar su autonomía y permitirle desarrollar competencias comunicativas en un entorno más dinámico.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Este proyecto parte de la unidad didáctica “Let’s describe” y tiene como objetivo que el alumnado sea capaz de describir personas reales o ficticias utilizando el presente simple, adjetivos de apariencia y personalidad, y estructuras básicas en inglés. Para lograrlo, se proponen varias actividades en grupos cooperativos, parejas o ejercicios individuales. Esta presentación incluye imágenes, textos descriptivos y una exposición oral breve ante la clase.<br />Durante el proceso, el alumnado trabaja con recursos tecnológicos como tablets, ordenadores y la pizarra digital. La tecnología se convierte en una herramienta de apoyo, no solo para buscar o crear contenidos, sino también para motivar al alumnado, fomentar su autonomía y permitirle desarrollar competencias comunicativas en un entorno más dinámico.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr1-ht9folazd</odePageId>
+  <odeParentPageId>page-mpzahzr0-l7iqzxumt</odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr1-ht9folazd</odePageId>
+      <odeBlockId>block-mpxtnlv6-ybk1c02gx</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr1-ht9folazd</odePageId>
+          <odeBlockId>block-mpxtnlv6-ybk1c02gx</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-1og5d59ul</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El alumnado deberá realizar una serie de actividades secuenciadas para llegar al producto final. Estas serán individuales, en parejas o en grupos. Las actividades son las siguientes:</p>
+<p></p>
+<p>1. Mix and match. Individual.</p>
+<p>2. Gallery Walk. Individual.</p>
+<p>3. Speed Descriptions. Parejas.</p>
+<p>4. Guess Who. Grupal.</p>
+<p>5. Final Presentation. Individual. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El alumnado deberá realizar una serie de actividades secuenciadas para llegar al producto final. Estas serán individuales, en parejas o en grupos. Las actividades son las siguientes:</p>\n<p></p>\n<p>1. Mix and match. Individual.</p>\n<p>2. Gallery Walk. Individual.</p>\n<p>3. Speed Descriptions. Parejas.</p>\n<p>4. Guess Who. Grupal.</p>\n<p>5. Final Presentation. Individual. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr2-8yzcfy0q5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Empecemos a describir</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empecemos a describir</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empecemos a describir</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr2-8yzcfy0q5</odePageId>
+      <odeBlockId>block-mpxtnlv6-bppbv3f6a</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr2-8yzcfy0q5</odePageId>
+          <odeBlockId>block-mpxtnlv6-bppbv3f6a</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-yf9r48r1c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Para poder realizar una buena descripción de una persona, debemos describir bien sus rasgos físicos, la ropa que viste o si podemos expresar cómo se siente, si está cansado, feliz, etc.</p>
+<p>Para ello podéis observar el siguiente video en el que se describe a varias personas:</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/x0YQX7gGkQs" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">English Chit Chat. <em>Describing People . Learn English</em></p>
+<p style="text-align: left;"><em></em></p>
+<p style="text-align: left;">Como podéis observar, ¡hay mucha información a la hora de describir a una persona! Por lo que os animo a que aprendáis este vocabulario y utilizarlo en las actividades que vendrán en las siguientes sesiones.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Para poder realizar una buena descripción de una persona, debemos describir bien sus rasgos físicos, la ropa que viste o si podemos expresar cómo se siente, si está cansado, feliz, etc.</p>\n<p>Para ello podéis observar el siguiente video en el que se describe a varias personas:</p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/x0YQX7gGkQs\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\">English Chit Chat. <em>Describing People . Learn English</em></p>\n<p style=\"text-align: left;\"><em></em></p>\n<p style=\"text-align: left;\">Como podéis observar, ¡hay mucha información a la hora de describir a una persona! Por lo que os animo a que aprendáis este vocabulario y utilizarlo en las actividades que vendrán en las siguientes sesiones.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr3-istthihdl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr3-istthihdl</odePageId>
+      <odeBlockId>block-mpxtnlv6-8gz022jjt</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr3-istthihdl</odePageId>
+          <odeBlockId>block-mpxtnlv6-8gz022jjt</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-q8suxncrb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En el panel de la izquierda se encuentran las actividades a realizar por el alumnado. </p>
+<p>Cada una tiene su descripción, temporalización y agrupamiento. Además de la herramienta de evaluación que se utilizará en cada una.</p>
+<p>También podremos encontrar dentro de cada pestaña, los criterios de evaluación asociados a la actividad.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En el panel de la izquierda se encuentran las actividades a realizar por el alumnado. </p>\n<p>Cada una tiene su descripción, temporalización y agrupamiento. Además de la herramienta de evaluación que se utilizará en cada una.</p>\n<p>También podremos encontrar dentro de cada pestaña, los criterios de evaluación asociados a la actividad.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+  <odeParentPageId>page-mpzahzr3-istthihdl</odeParentPageId>
+  <pageName>Mix and Match</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mix and Match</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mix and Match</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+      <odeBlockId>block-mpxtnlv6-giwg6gb06</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+          <odeBlockId>block-mpxtnlv6-giwg6gb06</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-nvfeoqiqr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="text-decoration: underline;"><span style="font-size: 18pt;"><strong>Mix and match:</strong></span></span><br />El profesor entrega a los alumnos imágenes de personas y descripciones desordenadas. Los alumnos deben unir correctamente cada descripción con su imagen.</p>
+<p>1 sesión de 60 minutos. Agrupamiento individual. Se utilizará la pizarra digital, imágenes o flashcards. </p>
+<p></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/4192364.jpg" alt="<a href="http://www.freepik.com">Designed by Freepik</a>" width="3000" height="2000" /></p>
+<p><a href="http://www.freepik.com">Diseñado por Freepik</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"text-decoration: underline;\"><span style=\"font-size: 18pt;\"><strong>Mix and match:</strong></span></span><br />El profesor entrega a los alumnos imágenes de personas y descripciones desordenadas. Los alumnos deben unir correctamente cada descripción con su imagen.</p>\n<p>1 sesión de 60 minutos. Agrupamiento individual. Se utilizará la pizarra digital, imágenes o flashcards. </p>\n<p></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/4192364.jpg\" alt=\"<a href=\"http://www.freepik.com\">Designed by Freepik</a>\" width=\"3000\" height=\"2000\" /></p>\n<p><a href=\"http://www.freepik.com\">Diseñado por Freepik</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+      <odeBlockId>block-mpxtnlv6-zr4slhm9s</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+          <odeBlockId>block-mpxtnlv6-zr4slhm9s</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-zg8fjeh26</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>1.2. Seleccionar, organizar y aplicar de forma guiada las estrategias y conocimientos más adecuados en situaciones comunicativas cotidianas para comprender el sentido general, la información esencial y los detalles más relevantes de los textos; interpretar elementos no verbales; y buscar y seleccionar información.<br />2.1. Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>1.2. Seleccionar, organizar y aplicar de forma guiada las estrategias y conocimientos más adecuados en situaciones comunicativas cotidianas para comprender el sentido general, la información esencial y los detalles más relevantes de los textos; interpretar elementos no verbales; y buscar y seleccionar información.<br />2.1. Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+      <odeBlockId>block-mpxtnlv6-63nxmf234</odeBlockId>
+      <blockName>Herramienta de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr6-xaaz9yqhq</odePageId>
+          <odeBlockId>block-mpxtnlv6-63nxmf234</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-j0m1k70db</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se utilizará la siguiente lista de cotejo para la evaluación de la actividad:</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/rubrica.jpg" alt="" width="690" height="532" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia</em><em></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se utilizará la siguiente lista de cotejo para la evaluación de la actividad:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/rubrica.jpg\" alt=\"\" width=\"690\" height=\"532\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia</em><em></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+  <odeParentPageId>page-mpzahzr3-istthihdl</odeParentPageId>
+  <pageName>Gallery Walk</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gallery Walk</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gallery Walk</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+      <odeBlockId>block-mpxtnlv6-gowjcn827</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+          <odeBlockId>block-mpxtnlv6-gowjcn827</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-ifjftom5d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="text-decoration: underline;"><span style="font-size: 18pt;"><strong>Gallery Walk:</strong></span></span><br />Los grupos crean descripciones de personas (pueden ser dibujos, personajes famosos o alumnos inventados) y las colocan por el aula. Luego, los alumnos van paseando y leyendo los trabajos, completando una hoja de observación (por ejemplo, buscando adjetivos específicos o errores corregibles).</p>
+<p>1 sesión de 60 minutos. Agrupamiento individual. Se utilizarán tablets, papel, etc.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Random7-150ppp.jpg" alt="Diseñado por Freepik" width="499" height="499" /></p>
+<p><a href="http://www.freepik.com">Diseñado por Freepik</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"text-decoration: underline;\"><span style=\"font-size: 18pt;\"><strong>Gallery Walk:</strong></span></span><br />Los grupos crean descripciones de personas (pueden ser dibujos, personajes famosos o alumnos inventados) y las colocan por el aula. Luego, los alumnos van paseando y leyendo los trabajos, completando una hoja de observación (por ejemplo, buscando adjetivos específicos o errores corregibles).</p>\n<p>1 sesión de 60 minutos. Agrupamiento individual. Se utilizarán tablets, papel, etc.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Random7-150ppp.jpg\" alt=\"Diseñado por Freepik\" width=\"499\" height=\"499\" /></p>\n<p><a href=\"http://www.freepik.com\">Diseñado por Freepik</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+      <odeBlockId>block-mpxtnlv6-cnvxbfnpk</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+          <odeBlockId>block-mpxtnlv6-cnvxbfnpk</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-jmweesvh8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.<br />2.3. Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias para planificar, producir y revisar textos comprensibles, coherentes y adecuados a las intenciones comunicativas, a las características contextuales y a la tipología textual, usando con ayuda los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento, teniendo en cuenta la personas a quienes va dirigido el texto.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.<br />2.3. Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias para planificar, producir y revisar textos comprensibles, coherentes y adecuados a las intenciones comunicativas, a las características contextuales y a la tipología textual, usando con ayuda los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento, teniendo en cuenta la personas a quienes va dirigido el texto.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+      <odeBlockId>block-mpxtnlv6-f1gw88szg</odeBlockId>
+      <blockName>Herramienta de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr7-4lz460m6t</odePageId>
+          <odeBlockId>block-mpxtnlv6-f1gw88szg</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-rbzwwwu4j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se utilizará esta escala como técnica de evaluación en la recopilación de datos, ya que captura información sobre los niveles más actitudinales, participativos y reflexivos del alumnado, los cuales no se suelen recoger de forma sencilla con una rúbrica, con las pruebas objetivas o distintas evaluaciones estandarizadas. La recogida de datos es una autoevaluación y coevaluación entre el alumnado.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Sin_titulo2.jpg" alt="" width="674" height="627" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia</em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se utilizará esta escala como técnica de evaluación en la recopilación de datos, ya que captura información sobre los niveles más actitudinales, participativos y reflexivos del alumnado, los cuales no se suelen recoger de forma sencilla con una rúbrica, con las pruebas objetivas o distintas evaluaciones estandarizadas. La recogida de datos es una autoevaluación y coevaluación entre el alumnado.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Sin_titulo2.jpg\" alt=\"\" width=\"674\" height=\"627\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia</em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+  <odeParentPageId>page-mpzahzr3-istthihdl</odeParentPageId>
+  <pageName>Speed Descriptions</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Speed Descriptions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Speed Descriptions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+      <odeBlockId>block-mpxtnlv6-xpm8ns413</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+          <odeBlockId>block-mpxtnlv6-xpm8ns413</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-xz1lfg41a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="text-decoration: underline; font-size: 18pt;"><strong>Speed Descriptions:</strong></span><br />Por turnos, cada alumno describe a un personaje famoso o compañero de clase durante 30 segundos sin decir su nombre. Su compañero debe adivinarlo. Se puede cronometrar para hacerlo más dinámico.</p>
+<p>Cada 5 minutos cambian las parejas.</p>
+<p></p>
+<p>1 sesión de 60 minutos. Agrupamiento por parejas. Se utilizarán tablets para la búsqueda de información en caso de que hiciera falta. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"text-decoration: underline; font-size: 18pt;\"><strong>Speed Descriptions:</strong></span><br />Por turnos, cada alumno describe a un personaje famoso o compañero de clase durante 30 segundos sin decir su nombre. Su compañero debe adivinarlo. Se puede cronometrar para hacerlo más dinámico.</p>\n<p>Cada 5 minutos cambian las parejas.</p>\n<p></p>\n<p>1 sesión de 60 minutos. Agrupamiento por parejas. Se utilizarán tablets para la búsqueda de información en caso de que hiciera falta. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+      <odeBlockId>block-mpxtnlv6-jde0p7amq</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+          <odeBlockId>block-mpxtnlv6-jde0p7amq</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-qhhrw0lfm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>4.1. Inferir y explicar textos, conceptos y comunicaciones breves y sencillas en situaciones en las que atender a la diversidad, mostrando respeto y empatía por interlocutores e interlocutoras y por las lenguas empleadas, e interés por participar en la solución de problemas de intercomprensión y de entendimiento en el entorno próximo, apoyándose en diversos recursos y soportes.<br />4.2. Aplicar, de forma guiada, estrategias que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, adecuadas a las intenciones comunicativas, usando recursos y apoyos físicos o digitales en función de las necesidades de cada momento.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>4.1. Inferir y explicar textos, conceptos y comunicaciones breves y sencillas en situaciones en las que atender a la diversidad, mostrando respeto y empatía por interlocutores e interlocutoras y por las lenguas empleadas, e interés por participar en la solución de problemas de intercomprensión y de entendimiento en el entorno próximo, apoyándose en diversos recursos y soportes.<br />4.2. Aplicar, de forma guiada, estrategias que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, adecuadas a las intenciones comunicativas, usando recursos y apoyos físicos o digitales en función de las necesidades de cada momento.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+      <odeBlockId>block-mpxtnlv6-8lgcbllc4</odeBlockId>
+      <blockName>Herramienta de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzr9-zs9kqk0a3</odePageId>
+          <odeBlockId>block-mpxtnlv6-8lgcbllc4</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-bp8fgex35</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se utilizará la siguiente rúbrica para la actividad “Speed Descriptions”. Esta herramienta es la más sencilla y sistemática, además de objetiva, teniendo en cuenta las diferentes capacidades que se presentan cuando los estudiantes realizan su producción oral. La recogida de datos se basará en la observación directa durante la actividad y nos basaremos en los distintos puntos de la rúbrica para realizar una evaluación justa. Además, podemos realizar notas de propuesta de mejora o de cambio para las futuras aplicaciones.</p>
+<p> <img src="{{context_path}}/content/resources/Sin_titulo.jpg" alt="" title="Elaboración propia" width="677" height="676" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia</em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se utilizará la siguiente rúbrica para la actividad “Speed Descriptions”. Esta herramienta es la más sencilla y sistemática, además de objetiva, teniendo en cuenta las diferentes capacidades que se presentan cuando los estudiantes realizan su producción oral. La recogida de datos se basará en la observación directa durante la actividad y nos basaremos en los distintos puntos de la rúbrica para realizar una evaluación justa. Además, podemos realizar notas de propuesta de mejora o de cambio para las futuras aplicaciones.</p>\n<p> <img src=\"{{context_path}}/content/resources/Sin_titulo.jpg\" alt=\"\" title=\"Elaboración propia\" width=\"677\" height=\"676\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia</em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+  <odeParentPageId>page-mpzahzr3-istthihdl</odeParentPageId>
+  <pageName>Guess Who</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guess Who</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guess Who</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+      <odeBlockId>block-mpxtnlv6-3uedcofw8</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+          <odeBlockId>block-mpxtnlv6-3uedcofw8</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-br14fv1wj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="text-decoration: underline; font-size: 18pt;"><strong>Guess Who:</strong></span></p>
+<p>Cada alumno escribe una o varias descripciones breves de un personaje real o inventado. El docente las lee en voz alta y el resto de la clase debe adivinar de quién se trata.</p>
+<p>Variación: En grupos, pueden leer las descripciones entre ellos e intentar adivinar en el menor tiempo posible.</p>
+<p></p>
+<p>1 sesión de 60 minutos. Agrupamiento por grupos de cuatro personas. Se utilizarán tablets para la búsqueda de información en caso de que sea necesario.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/4192248.jpg" alt="" width="407" height="407" /></p>
+<p><a href="http://www.freepik.com">Diseñado por Freepik</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"text-decoration: underline; font-size: 18pt;\"><strong>Guess Who:</strong></span></p>\n<p>Cada alumno escribe una o varias descripciones breves de un personaje real o inventado. El docente las lee en voz alta y el resto de la clase debe adivinar de quién se trata.</p>\n<p>Variación: En grupos, pueden leer las descripciones entre ellos e intentar adivinar en el menor tiempo posible.</p>\n<p></p>\n<p>1 sesión de 60 minutos. Agrupamiento por grupos de cuatro personas. Se utilizarán tablets para la búsqueda de información en caso de que sea necesario.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/4192248.jpg\" alt=\"\" width=\"407\" height=\"407\" /></p>\n<p><a href=\"http://www.freepik.com\">Diseñado por Freepik</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+      <odeBlockId>block-mpxtnlv6-aqux9ujrw</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+          <odeBlockId>block-mpxtnlv6-aqux9ujrw</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-nyapkw3g5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>1.1. Interpretar y analizar el sentido global y la información específica y explícita de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos, de relevancia personal y próximos a la experiencia del alumnado, propios de los ámbitos de las relaciones interpersonales, del aprendizaje, de los medios de comunicación y de la ficción expresados de forma clara y en la lengua estándar a través de diversos soportes.</p>
+<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>1.1. Interpretar y analizar el sentido global y la información específica y explícita de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos, de relevancia personal y próximos a la experiencia del alumnado, propios de los ámbitos de las relaciones interpersonales, del aprendizaje, de los medios de comunicación y de la ficción expresados de forma clara y en la lengua estándar a través de diversos soportes.</p>\n<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+      <odeBlockId>block-mpxtnlv6-j34dwdrnz</odeBlockId>
+      <blockName>Herramienta de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzra-d8vqkl152</odePageId>
+          <odeBlockId>block-mpxtnlv6-j34dwdrnz</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-mqnk3yg23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se utilizará una rúbrica de evaluación centrada en la producción escrita de la descripción por parte del alumnado.</p>
+<p><img src="{{context_path}}/content/resources/writing.jpg" alt="" width="797" height="500" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia mediante Additio</em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se utilizará una rúbrica de evaluación centrada en la producción escrita de la descripción por parte del alumnado.</p>\n<p><img src=\"{{context_path}}/content/resources/writing.jpg\" alt=\"\" width=\"797\" height=\"500\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia mediante Additio</em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Final Task</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final Task</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final Task</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+      <odeBlockId>block-mpxtnlv6-7xbhch5hv</odeBlockId>
+      <blockName>Oral presentation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+          <odeBlockId>block-mpxtnlv6-7xbhch5hv</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-dmqzhpdph</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El objetivo de esta tarea final es realizar una última actividad que sea el producto final de las cuatro tareas anteriores.</p>
+<p>En esta actividad se tendrá que hacer una exposición oral ante el resto de la clase. Esta exposición tendrá que ser sobre <strong>una descripción detallada de un personaje inventado por vosotros. </strong>En la pizarra digital debéis mostrar un dibujo/imagen creado por vosotros o por IA. Además de la descripción física debéis realizar una descripción de la personalidad, de cómo creéis que es ese personaje. Intentad realizar una descripción lo más detallada posible para conseguir una completa imagen de vuestro personaje.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/11062289.jpg" alt="" width="690" height="460" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em><a href="http://www.freepik.com">Diseñado por Freepik</a></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El objetivo de esta tarea final es realizar una última actividad que sea el producto final de las cuatro tareas anteriores.</p>\n<p>En esta actividad se tendrá que hacer una exposición oral ante el resto de la clase. Esta exposición tendrá que ser sobre <strong>una descripción detallada de un personaje inventado por vosotros. </strong>En la pizarra digital debéis mostrar un dibujo/imagen creado por vosotros o por IA. Además de la descripción física debéis realizar una descripción de la personalidad, de cómo creéis que es ese personaje. Intentad realizar una descripción lo más detallada posible para conseguir una completa imagen de vuestro personaje.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/11062289.jpg\" alt=\"\" width=\"690\" height=\"460\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em><a href=\"http://www.freepik.com\">Diseñado por Freepik</a></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+      <odeBlockId>block-mpxtnlv6-mc60j6eq8</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+          <odeBlockId>block-mpxtnlv6-mc60j6eq8</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-ha34qczqo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>2.1. Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción.</p>
+<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.</p>
+<p>2.3. Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias para planificar, producir y revisar textos comprensibles, coherentes y adecuados a las intenciones comunicativas, a las características contextuales y a la tipología textual, usando con ayuda los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento, teniendo en cuenta la personas a quienes va dirigido el texto.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>2.1. Expresar oralmente textos breves, sencillos, estructurados, comprensibles y adecuados a la situación comunicativa sobre asuntos cotidianos y frecuentes, de relevancia para el alumnado, con el fin de describir, narrar e informar sobre temas concretos, en diferentes soportes, utilizando de forma guiada recursos verbales y no verbales, así como estrategias de planificación y control de la producción.</p>\n<p>2.2. Organizar y redactar textos breves y comprensibles con aceptable claridad, coherencia, cohesión y adecuación a la situación comunicativa propuesta, siguiendo pautas establecidas, a través de herramientas analógicas y digitales, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.</p>\n<p>2.3. Seleccionar, organizar y aplicar de forma guiada conocimientos y estrategias para planificar, producir y revisar textos comprensibles, coherentes y adecuados a las intenciones comunicativas, a las características contextuales y a la tipología textual, usando con ayuda los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento, teniendo en cuenta la personas a quienes va dirigido el texto.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+      <odeBlockId>block-mpxtnlv6-cvkyjb33j</odeBlockId>
+      <blockName>Herramienta de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrb-mpu409tyk</odePageId>
+          <odeBlockId>block-mpxtnlv6-cvkyjb33j</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-39e7zy2yw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se utilizará la siguiente rúbrica para valorar la exposición oral:</p>
+<p><img src="{{context_path}}/content/resources/Rubrica_Exp_oral.jpg" alt="" width="811" height="848" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Elaboración propia con Additio</em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se utilizará la siguiente rúbrica para valorar la exposición oral:</p>\n<p><img src=\"{{context_path}}/content/resources/Rubrica_Exp_oral.jpg\" alt=\"\" width=\"811\" height=\"848\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Elaboración propia con Additio</em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzrc-m2r573v2w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzrc-m2r573v2w</odePageId>
+      <odeBlockId>block-mpxtnlv6-hnn36pqf6</odeBlockId>
+      <blockName>Elementos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrc-m2r573v2w</odePageId>
+          <odeBlockId>block-mpxtnlv6-hnn36pqf6</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv6-4b0pnj5x6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En el panel de la izquierda podemos encontrar los siguientes elementos: temporalización, recursos web y posibles problemas técnicos.</p>
+<p>Los criterios de evaluación y la herramienta para la evaluación de cada actividad están introducidos dentro de cada actividad, para que cada una tenga su criterio y evaluación correspondiente.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En el panel de la izquierda podemos encontrar los siguientes elementos: temporalización, recursos web y posibles problemas técnicos.</p>\n<p>Los criterios de evaluación y la herramienta para la evaluación de cada actividad están introducidos dentro de cada actividad, para que cada una tenga su criterio y evaluación correspondiente.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzrc-m2r573v2w</odePageId>
+      <odeBlockId>block-mpxtnlv6-ntgpruxbr</odeBlockId>
+      <blockName>File Attachments</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrc-m2r573v2w</odePageId>
+          <odeBlockId>block-mpxtnlv6-ntgpruxbr</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-3qh9ida2v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí está el documento en pdf donde se asocian las tareas a los criterios de evaluación.</p>
+<p><br /></p>
+<p><a href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación Fátima Gutiérrez Sánchez.docx.pdf" title="6.1. Asociamos tareas a Criterios de evaluación Fátima Gutiérrez Sánchez.docx.pdf">6.1 ASOCIAMOS TAREAS A CRITERIOS DE EVALAUACIÓN - FÁTIMA GUTIÉRREZ SÁNCHEZ</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpxtnlv7-3qh9ida2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí está el documento en pdf donde se asocian las tareas a los criterios de evaluación.</p>\n<p><br /></p>\n<p><a href=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación Fátima Gutiérrez Sánchez.docx.pdf\" title=\"6.1. Asociamos tareas a Criterios de evaluación Fátima Gutiérrez Sánchez.docx.pdf\">6.1 ASOCIAMOS TAREAS A CRITERIOS DE EVALAUACIÓN - FÁTIMA GUTIÉRREZ SÁNCHEZ</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzre-wn1903vhk</odePageId>
+  <odeParentPageId>page-mpzahzrc-m2r573v2w</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzre-wn1903vhk</odePageId>
+      <odeBlockId>block-mpxtnlv7-nnlm1wkv8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzre-wn1903vhk</odePageId>
+          <odeBlockId>block-mpxtnlv7-nnlm1wkv8</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-534a7qthu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzre-wn1903vhk</odePageId>
+      <odeBlockId>block-mpxtnlv7-u9zyzadly</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzre-wn1903vhk</odePageId>
+          <odeBlockId>block-mpxtnlv7-u9zyzadly</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-6pk878xwi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este es el mapa mental de las actividades que tendremos que realizar. De esta manera podréis echarle un vistazo rápido y saber qué vamos a trabajar en cada sesión.</p>
+<p><a href="{{context_path}}/content/resources/Mapa mental- Fátima Gutiérrez Sánchez.pdf" title="Mapa mental- Fátima Gutiérrez Sánchez.pdf">Mapa mental Fátima Gutiérrez Sánchez</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpxtnlv7-6pk878xwi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este es el mapa mental de las actividades que tendremos que realizar. De esta manera podréis echarle un vistazo rápido y saber qué vamos a trabajar en cada sesión.</p>\n<p><a href=\"{{context_path}}/content/resources/Mapa mental- Fátima Gutiérrez Sánchez.pdf\" title=\"Mapa mental- Fátima Gutiérrez Sánchez.pdf\">Mapa mental Fátima Gutiérrez Sánchez</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzrg-k3bsv97df</odePageId>
+  <odeParentPageId>page-mpzahzrc-m2r573v2w</odeParentPageId>
+  <pageName>Recursos web</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos web</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos web</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzrg-k3bsv97df</odePageId>
+      <odeBlockId>block-mpxtnlv7-tqj7xm2lo</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrg-k3bsv97df</odePageId>
+          <odeBlockId>block-mpxtnlv7-tqj7xm2lo</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-efb7g2bjn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace podrás encontrar distintos recursos web para realizar las actividades.</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eOcXNCKP" title="">https://www.symbaloo.com/home/mix/13eOcXNCKP</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpxtnlv7-efb7g2bjn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace podrás encontrar distintos recursos web para realizar las actividades.</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eOcXNCKP\" title=\"\">https://www.symbaloo.com/home/mix/13eOcXNCKP</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzrh-lv3vck0o2</odePageId>
+  <odeParentPageId>page-mpzahzrc-m2r573v2w</odeParentPageId>
+  <pageName>Problemas técnicos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Problemas técnicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Problemas técnicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzrh-lv3vck0o2</odePageId>
+      <odeBlockId>block-mpxtnlv7-fr066p0yh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrh-lv3vck0o2</odePageId>
+          <odeBlockId>block-mpxtnlv7-fr066p0yh</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-iovw2vjqp</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzrh-lv3vck0o2</odePageId>
+      <odeBlockId>block-mpxtnlv7-mq30p9thf</odeBlockId>
+      <blockName>Posibles problemas técnicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrh-lv3vck0o2</odePageId>
+          <odeBlockId>block-mpxtnlv7-mq30p9thf</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-ohx1tc66s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Siempre puede haber inconvenientes que paren un poco el ritmo de la actividad, así que propongo unos consejos que nos solucionarían estos problemas:<br />Debemos asegurarnos de que todos los dispositivos estén cargados y en funcionamiento.<br />Revisamos que haya conexión a internet estable.<br />Abrimos previamente las páginas o apps que vayan a usarse<br />En caso de que internet no funcione, para las presentaciones, pueden usar cartulinas o fichas en lugar de apps digitales.<br />Podemos crear el rol de “Tech Helper” dentro de cada grupo:<br />Es la persona encargada de controlar el dispositivo, resolver pequeños fallos o pedir ayuda si algo no funciona.<br />Así descentralizamos la resolución de problemas y fomentas la autonomía.<br />Además, podemos escribir en la pizarra o en una diapositiva un apartado que contenga lo siguiente:</p>
+<p><br /><span style="text-decoration: underline;">¿Problemas técnicos?</span><br />Comprueba batería y conexión.<br />Reinicia o cambia de dispositivo.<br />Pregunta a tu “Tech Helper”.<br />Si nada funciona, pasa a la versión en papel.</p>
+<p><br />De esta manera podemos reducir la presión o ansiedad del alumnado y mantener el ritmo de la clase.</p>
+<p></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20945385.jpg" alt="" width="602" height="602" style="display: block; margin-left: auto; margin-right: auto;" /><em><a href="https://www.freepik.es/">Diseñado por Freepik</a></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Siempre puede haber inconvenientes que paren un poco el ritmo de la actividad, así que propongo unos consejos que nos solucionarían estos problemas:<br />Debemos asegurarnos de que todos los dispositivos estén cargados y en funcionamiento.<br />Revisamos que haya conexión a internet estable.<br />Abrimos previamente las páginas o apps que vayan a usarse<br />En caso de que internet no funcione, para las presentaciones, pueden usar cartulinas o fichas en lugar de apps digitales.<br />Podemos crear el rol de “Tech Helper” dentro de cada grupo:<br />Es la persona encargada de controlar el dispositivo, resolver pequeños fallos o pedir ayuda si algo no funciona.<br />Así descentralizamos la resolución de problemas y fomentas la autonomía.<br />Además, podemos escribir en la pizarra o en una diapositiva un apartado que contenga lo siguiente:</p>\n<p><br /><span style=\"text-decoration: underline;\">¿Problemas técnicos?</span><br />Comprueba batería y conexión.<br />Reinicia o cambia de dispositivo.<br />Pregunta a tu “Tech Helper”.<br />Si nada funciona, pasa a la versión en papel.</p>\n<p><br />De esta manera podemos reducir la presión o ansiedad del alumnado y mantener el ritmo de la clase.</p>\n<p></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20945385.jpg\" alt=\"\" width=\"602\" height=\"602\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><em><a href=\"https://www.freepik.es/\">Diseñado por Freepik</a></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzahzrj-la30r6wgd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzahzrj-la30r6wgd</odePageId>
+      <odeBlockId>block-mpxtnlv7-c2dq7etc8</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrj-la30r6wgd</odePageId>
+          <odeBlockId>block-mpxtnlv7-c2dq7etc8</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-gzgy5z0or</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table class="exe-table" style="height: 131px;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr style="height: 25px;">
+<th style="height: 25px; width: 97.95px;">Título</th>
+<td style="height: 25px; width: 1003.25px;">Let's Describe!</td>
+</tr>
+<tr style="height: 50px;">
+<th style="height: 50px; width: 97.95px;">Descripción</th>
+<td style="height: 50px; width: 1003.25px;">Se trata de una situación de aprendizaje para realizar en el aula y la cual está destinada a un curso de 1º de la E.S.O. que estudian la asignatura de inglés como primera lengua extrajera.</td>
+</tr>
+<tr style="height: 25px;">
+<th style="height: 25px; width: 97.95px;">Autoría</th>
+<td style="height: 25px; width: 1003.25px;">Fátima Gutiérrez Sánchez</td>
+</tr>
+<tr style="height: 31px;">
+<th style="height: 31px; width: 97.95px;">Licencia</th>
+<td style="height: 31px; width: 1003.25px;"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" class="cc cc-by-nc-sa"><span style="background-color: #ffffff;"><img src="{{context_path}}/content/resources/Cc-by-nc-sa_icon.svg.png" alt="" width="71" height="25" /><span style="text-decoration: underline;">     </span></span>Creative Commons BY-NC-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpxtnlv7-gzgy5z0or","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table class=\"exe-table\" style=\"height: 131px;\"><caption>Información general sobre este recurso educativo</caption>\n<tbody>\n<tr style=\"height: 25px;\">\n<th style=\"height: 25px; width: 97.95px;\">Título</th>\n<td style=\"height: 25px; width: 1003.25px;\">Let's Describe!</td>\n</tr>\n<tr style=\"height: 50px;\">\n<th style=\"height: 50px; width: 97.95px;\">Descripción</th>\n<td style=\"height: 50px; width: 1003.25px;\">Se trata de una situación de aprendizaje para realizar en el aula y la cual está destinada a un curso de 1º de la E.S.O. que estudian la asignatura de inglés como primera lengua extrajera.</td>\n</tr>\n<tr style=\"height: 25px;\">\n<th style=\"height: 25px; width: 97.95px;\">Autoría</th>\n<td style=\"height: 25px; width: 1003.25px;\">Fátima Gutiérrez Sánchez</td>\n</tr>\n<tr style=\"height: 31px;\">\n<th style=\"height: 31px; width: 97.95px;\">Licencia</th>\n<td style=\"height: 31px; width: 1003.25px;\"><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" rel=\"license\" class=\"cc cc-by-nc-sa\"><span style=\"background-color: #ffffff;\"><img src=\"{{context_path}}/content/resources/Cc-by-nc-sa_icon.svg.png\" alt=\"\" width=\"71\" height=\"25\" /><span style=\"text-decoration: underline;\">     </span></span>Creative Commons BY-NC-SA 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzahzrj-la30r6wgd</odePageId>
+      <odeBlockId>block-mpxtnlv7-8t48jyfc3</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzahzrj-la30r6wgd</odePageId>
+          <odeBlockId>block-mpxtnlv7-8t48jyfc3</odeBlockId>
+          <odeIdeviceId>idevice-mpxtnlv7-m4a39y0ok</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Let's Describe</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Este REA parte de la unidad didáctica “Let’s describe” y tiene como objetivo que el alumnado sea capaz de describir personas reales o ficticias utilizando el presente simple, adjetivos de apariencia y personalidad, y estructuras básicas en inglés. Para lograrlo, se propone una dinámica en grupos cooperativos, donde cada grupo debe crear una presentación de un personaje inventado. Esta presentación incluye imágenes, textos descriptivos y una exposición oral breve ante la clase. Durante el proceso, el alumnado trabaja con recursos tecnológicos como tablets, ordenadores y la pizarra digital. La tecnología se convierte en una herramienta de apoyo, no solo para buscar o crear contenidos, sino también para motivar al alumnado, fomentar su autonomía y permitirle desarrollar competencias comunicativas en un entorno más dinámico.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Fátima Gutiérrez Sánchez</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>Creative Commons: Reconocimiento - no comercial - compartir igual 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
